@@ -1,6 +1,7 @@
 # Projetos
- Sistemas criados para praticar os conhecimentos adquiridos
 
-## Lista de Projetos
+Sistemas criados para praticar os conhecimentos adquiridos
 
-    - Psitas
+## Lista de Projetos:
+
+- [Psitas]
